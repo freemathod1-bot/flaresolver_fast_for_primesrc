@@ -1,177 +1,364 @@
 [
   {
     "serial": 1,
-    "title": "The Fog",
-    "tmdb/imdb": "790/tt0080749",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://voe.sx/e/vlfwtxgl5xqr"
+    "title": "The Blues Brothers",
+    "tmdb/imdb": "525/tt0080455",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://vidmoly.biz/embed-sk7st43mar2k.html"
   },
   {
     "serial": 2,
-    "title": "Stalker",
-    "tmdb/imdb": "1398/tt0079944",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://voe.sx/e/tjdjrhjkr1x3"
+    "title": "The Shining",
+    "tmdb/imdb": "694/tt0081505",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://voe.sx/e/ehb2dtvkgxeq"
   },
   {
     "serial": 3,
-    "title": "American Gigolo",
-    "tmdb/imdb": "2768/tt0080365",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://dood.watch/e/473kzqj6c8z2"
+    "title": "The Fog",
+    "tmdb/imdb": "790/tt0080749",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://voe.sx/e/vlfwtxgl5xqr"
   },
   {
     "serial": 4,
+    "title": "Airplane!",
+    "tmdb/imdb": "813/tt0080339",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://streamwish.to/e/5mlgk6zn6q52"
+  },
+  {
+    "serial": 5,
+    "title": "The Return of the King",
+    "tmdb/imdb": "1361/tt0079802",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://mixdrop.ag/e/mkzzqow3bkxelo"
+  },
+  {
+    "serial": 6,
+    "title": "Stalker",
+    "tmdb/imdb": "1398/tt0079944",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://voe.sx/e/tjdjrhjkr1x3",
+    "host-2": "https://streamta.site/e/W1MOGJZRxvtpXy/Stalker_%281979%29_%281080p_BluRay_x265_SDR_DDP_2.0_Russian_-_DarQ_HONE%29.ENG.Subs.mp4"
+  },
+  {
+    "serial": 7,
+    "title": "The Empire Strikes Back",
+    "tmdb/imdb": "1891/tt0080684",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://bysejikuar.com/e/2jh42yr8oh2w"
+  },
+  {
+    "serial": 8,
+    "title": "American Gigolo",
+    "tmdb/imdb": "2768/tt0080365",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/473kzqj6c8z2",
+    "host-2": "https://luluvdoo.com/e/844943suyw9h"
+  },
+  {
+    "serial": 9,
     "title": "Death Watch",
     "tmdb/imdb": "3418/tt0081182",
     "extracted_at": "2026-08-20T03:14:51Z",
     "host-1": "https://dood.watch/e/upqqgr38gwrz"
   },
   {
-    "serial": 5,
+    "serial": 10,
+    "title": "Fame",
+    "tmdb/imdb": "3537/tt0080716",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/u3chckp0itc2"
+  },
+  {
+    "serial": 11,
+    "title": "Friday the 13th",
+    "tmdb/imdb": "4488/tt0080761",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://voe.sx/e/kkjcv5swmn2c"
+  },
+  {
+    "serial": 12,
     "title": "Caligula",
     "tmdb/imdb": "9453/tt0080491",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://voe.sx/e/wxapctafws4p"
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://voe.sx/e/wxapctafws4p",
+    "host-2": "https://luluvdoo.com/e/3bryod1qbf18"
   },
   {
-    "serial": 6,
+    "serial": 13,
     "title": "Mad Max",
     "tmdb/imdb": "9659/tt0079501",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://voe.sx/e/phj4egbgpdo1"
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://voe.sx/e/phj4egbgpdo1",
+    "host-2": "https://voe.sx/e/nmitbv2vlwzr"
   },
   {
-    "serial": 7,
+    "serial": 14,
+    "title": "The Young Master",
+    "tmdb/imdb": "11563/tt0081499",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/4dn6xxrwg92t"
+  },
+  {
+    "serial": 15,
     "title": "Caboblanco",
     "tmdb/imdb": "11767/tt0080485",
     "extracted_at": "2026-08-20T03:14:51Z",
     "host-1": "https://dood.watch/e/ootj2uei5w06"
   },
   {
-    "serial": 8,
+    "serial": 16,
     "title": "Where the Buffalo Roam",
     "tmdb/imdb": "13005/tt0081748",
     "extracted_at": "2026-08-20T03:14:51Z",
     "host-1": "https://dood.watch/e/2rmtli0fkzka"
   },
   {
-    "serial": 9,
+    "serial": 17,
     "title": "The Changeling",
     "tmdb/imdb": "13550/tt0080516",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://www.youtube.com/embed/kcR87cQ74Hk"
-  },
-  {
-    "serial": 10,
-    "title": "The Private Eyes",
-    "tmdb/imdb": "13762/tt0081376",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://dood.watch/e/e76e87ztxpux"
-  },
-  {
-    "serial": 11,
-    "title": "Breaker Morant",
-    "tmdb/imdb": "13783/tt0080310",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://dood.watch/e/cs5vu7591mbr"
-  },
-  {
-    "serial": 12,
-    "title": "Coal Miner's Daughter",
-    "tmdb/imdb": "16769/tt0080549",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://dood.watch/e/tehncv6exhd6"
-  },
-  {
-    "serial": 13,
-    "title": "Midnight Madness",
-    "tmdb/imdb": "17971/tt0081159",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://dood.watch/e/81t1jmxamrtc"
-  },
-  {
-    "serial": 14,
-    "title": "Saturn 3",
-    "tmdb/imdb": "19761/tt0079285",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://voe.sx/e/4jlwv6rfpxan"
-  },
-  {
-    "serial": 15,
-    "title": "Cruising",
-    "tmdb/imdb": "27958/tt0080569",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://mixdrop.ag/e/ndtrt"
-  },
-  {
-    "serial": 16,
-    "title": "Permanent Vacation",
-    "tmdb/imdb": "37997/tt0084488",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://dood.watch/e/c4e3tn8l46fb"
-  },
-  {
-    "serial": 17,
-    "title": "Don't Answer the Phone!",
-    "tmdb/imdb": "40102/tt0080645",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://dood.watch/e/jyfi42ukh1zd"
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://www.youtube.com/embed/kcR87cQ74Hk",
+    "host-2": "https://dood.watch/e/8f8vjth7lh9d"
   },
   {
     "serial": 18,
-    "title": "Hero at Large",
-    "tmdb/imdb": "44004/tt0080863",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://voe.sx/e/oa3cuybxdy1d"
+    "title": "The Private Eyes",
+    "tmdb/imdb": "13762/tt0081376",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/e76e87ztxpux",
+    "host-2": "https://dood.watch/e/vr3ropvdlvqg"
   },
   {
     "serial": 19,
-    "title": "When Time Ran Out...",
-    "tmdb/imdb": "47942/tt0081747",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://www.youtube.com/embed/G5TBk34R92k"
+    "title": "Breaker Morant",
+    "tmdb/imdb": "13783/tt0080310",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/cs5vu7591mbr"
   },
   {
     "serial": 20,
-    "title": "Simon",
-    "tmdb/imdb": "55792/tt0081518",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://www.youtube.com/embed/-3lfS8_lfqQ"
+    "title": "The Big Red One",
+    "tmdb/imdb": "16121/tt0080437",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/xbwpz6reo402"
   },
   {
     "serial": 21,
+    "title": "Coal Miner's Daughter",
+    "tmdb/imdb": "16769/tt0080549",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/tehncv6exhd6",
+    "host-2": "https://dood.watch/e/v4ty5ifnxo4m"
+  },
+  {
+    "serial": 22,
+    "title": "Midnight Madness",
+    "tmdb/imdb": "17971/tt0081159",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/81t1jmxamrtc",
+    "host-2": "https://streamwish.to/e/yyy6eojyqi20"
+  },
+  {
+    "serial": 23,
+    "title": "The Ninth Configuration",
+    "tmdb/imdb": "18910/tt0081237",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://mixdrop.ag/e/ah10a1sml2b"
+  },
+  {
+    "serial": 24,
+    "title": "Animalympics",
+    "tmdb/imdb": "19247/tt0078780",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/et8uk0wa450w"
+  },
+  {
+    "serial": 25,
+    "title": "The Sea Wolves",
+    "tmdb/imdb": "19664/tt0081470",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://www.youtube.com/embed/kxri_RBJF5Y"
+  },
+  {
+    "serial": 26,
+    "title": "Saturn 3",
+    "tmdb/imdb": "19761/tt0079285",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://voe.sx/e/4jlwv6rfpxan",
+    "host-2": "https://dood.watch/e/t2w3lquou28a"
+  },
+  {
+    "serial": 27,
+    "title": "Roadie",
+    "tmdb/imdb": "21024/tt0081433",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/p6fjtlv81hj7"
+  },
+  {
+    "serial": 28,
+    "title": "The Hollywood Knights",
+    "tmdb/imdb": "21879/tt0080881",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/ca2zt0sljpyf"
+  },
+  {
+    "serial": 29,
+    "title": "The Nude Bomb",
+    "tmdb/imdb": "26200/tt0081249",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://streamwish.to/e/8lvmyaykyuqs"
+  },
+  {
+    "serial": 30,
+    "title": "Cruising",
+    "tmdb/imdb": "27958/tt0080569",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://mixdrop.ag/e/ndtrt",
+    "host-2": "https://dood.watch/e/uou9yhxsg3jg"
+  },
+  {
+    "serial": 31,
+    "title": "Humanoids from the Deep",
+    "tmdb/imdb": "29343/tt0080904",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/kr6n5z4mdi09"
+  },
+  {
+    "serial": 32,
+    "title": "Carny",
+    "tmdb/imdb": "32027/tt0080500",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/s4x07ysz84s2"
+  },
+  {
+    "serial": 33,
+    "title": "Galaxina",
+    "tmdb/imdb": "33155/tt0080771",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://bysejikuar.com/e/83fdc0mvvh15"
+  },
+  {
+    "serial": 34,
+    "title": "Alligator",
+    "tmdb/imdb": "33518/tt0080354",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/kir78blrmu5j"
+  },
+  {
+    "serial": 35,
+    "title": "Permanent Vacation",
+    "tmdb/imdb": "37997/tt0084488",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/c4e3tn8l46fb"
+  },
+  {
+    "serial": 36,
+    "title": "Don't Answer the Phone!",
+    "tmdb/imdb": "40102/tt0080645",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/jyfi42ukh1zd"
+  },
+  {
+    "serial": 37,
+    "title": "Hero at Large",
+    "tmdb/imdb": "44004/tt0080863",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://voe.sx/e/oa3cuybxdy1d"
+  },
+  {
+    "serial": 38,
+    "title": "The Gambler",
+    "tmdb/imdb": "44789/tt0080993",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://www.youtube.com/embed/1pHtdcYvf_A"
+  },
+  {
+    "serial": 39,
+    "title": "When Time Ran Out...",
+    "tmdb/imdb": "47942/tt0081747",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://www.youtube.com/embed/G5TBk34R92k"
+  },
+  {
+    "serial": 40,
+    "title": "Rough Cut",
+    "tmdb/imdb": "49375/tt0081439",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://luluvdoo.com/e/5re61nm5dis2"
+  },
+  {
+    "serial": 41,
+    "title": "Simon",
+    "tmdb/imdb": "55792/tt0081518",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://www.youtube.com/embed/-3lfS8_lfqQ"
+  },
+  {
+    "serial": 42,
+    "title": "The Mountain Men",
+    "tmdb/imdb": "75552/tt0081187",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://luluvdoo.com/e/1qit9otjy5ge"
+  },
+  {
+    "serial": 43,
     "title": "Windows",
     "tmdb/imdb": "83857/tt0081759",
     "extracted_at": "2026-08-20T03:14:51Z",
     "host-1": "https://dood.watch/e/gjea9rg1xm2u"
   },
   {
-    "serial": 22,
+    "serial": 44,
     "title": "To All a Goodnight",
     "tmdb/imdb": "85181/tt0086449",
-    "extracted_at": "2026-08-20T03:14:51Z",
+    "extracted_at": "2026-08-20T03:26:29Z",
     "host-1": "https://dood.watch/e/pxqjqjn0pmj6"
   },
   {
-    "serial": 23,
-    "title": "Nijinsky",
-    "tmdb/imdb": "163627/tt0081235",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://mixdrop.ag/e/wlk316x6uv6d90"
+    "serial": 45,
+    "title": "The Happy Hooker Goes Hollywood",
+    "tmdb/imdb": "93576/tt0080839",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/qfxku7intj9t"
   },
   {
-    "serial": 24,
+    "serial": 46,
+    "title": "Gilda Live",
+    "tmdb/imdb": "97415/tt0080790",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://dood.watch/e/8g5gleymk4qx"
+  },
+  {
+    "serial": 47,
+    "title": "How to Beat the High Cost of Living",
+    "tmdb/imdb": "119617/tt0080895",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://archive.org/embed/HowtoBeattheHighCostofLiving1980"
+  },
+  {
+    "serial": 48,
+    "title": "Nijinsky",
+    "tmdb/imdb": "163627/tt0081235",
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://mixdrop.ag/e/wlk316x6uv6d90",
+    "host-2": "https://voe.sx/e/txuaazcptvoj"
+  },
+  {
+    "serial": 49,
     "title": "Heart Beat",
     "tmdb/imdb": "190173/tt0080854",
     "extracted_at": "2026-08-20T03:14:51Z",
     "host-1": "https://dood.watch/e/kjiw7rkwrrdb"
   },
   {
-    "serial": 25,
+    "serial": 50,
     "title": "North Sea Hijack",
     "tmdb/imdb": "390253/tt0081809",
-    "extracted_at": "2026-08-20T03:14:51Z",
-    "host-1": "https://mixdrop.ag/e/gj0prj34i48pxp"
+    "extracted_at": "2026-08-20T03:26:29Z",
+    "host-1": "https://mixdrop.ag/e/gj0prj34i48pxp",
+    "host-2": "https://luluvdoo.com/e/r8p01rhydqzp"
   }
 ]
